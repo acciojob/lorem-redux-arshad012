@@ -1,5 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
-import regeneratorRuntime from 'regenerator-Runtime';
+import regeneratorRuntime from 'regenerator-Runtime'
 
 export const fetchLorem = createAsyncThunk('fetch/lorem', 
     async () => {

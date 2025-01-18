@@ -18,8 +18,9 @@ const LoremIpsum = () => {
     return (
         <div>
             <div className={styles.heading}>
-                <h1>A short Naration of Lorem Ipsum</h1>
-                <p>Below contains A title and body gotten from <br /> a random API. Please take your time to review</p>
+                <h1>displays intro text</h1>
+                {/* <h1>A short Naration of Lorem Ipsum</h1> */}
+                {/* <p>Below contains A title and body gotten from <br /> a random API. Please take your time to review</p> */}
             </div>
         
         {
